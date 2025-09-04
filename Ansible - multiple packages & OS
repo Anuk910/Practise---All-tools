@@ -1,0 +1,100 @@
+  3  ping www.google.com
+    4  sudo apt-add-repository ppa:ansible/ansible
+    5  sudo apt update
+    6  sudo apt install ansibl
+    7  sudo apt install ansible
+    8  ansible --version
+    9  ssh-keygen -t rsa
+   10  ls
+   11  sudo apt update -y
+   12  sudo apt install -y software-properties-common
+   13  sudo apt install -y ansible
+   14  ansible --version
+   15  ssh-keygen -t rsa -b 4096
+   16  cat /root/.ssh/id_rsa
+   17  cd /etc//ansible/
+   18  ls
+   19  cd /root/.ssh/id_rsa.pub
+   20  cd ..
+   21  /root/.ssh/id_rsa.pub
+   22  cd /root/.ssh/id_rsa.pub
+   23  clear
+   24  ls
+   25  cd /etc/ansible/
+   26  cd /root/.ssh/id_rsa.pub
+   27  ls
+   28  cd hosts
+   29  cd /hosts
+   30  cd hosts/
+   31  cd /root/.ssh/
+   32  ls
+   33  cat id_rsa.pub
+   34  vim hosts
+   35  cd /root/.ssh/
+   36  cd /etc/ansible/
+   37  ls
+   38  vim hosts
+   39  ansible -m ping 172.31.30.11
+   40  ansible -m ping all
+   41  vim hosts
+   42  ansible -m ping all
+   43  ansible -m ping 172.31.30.11
+   44  ansible -m ping 172.31.21.240
+   45  ansible -m ping all
+   46  ansible -m ping 172.31.30.11
+   47  ansible -m ping 172.31.21.240
+   48  clear
+   49  ansible -m ping all
+   50  git clone https://github.com/Anuk910/interview.git
+   51  cd interview/
+   52  ls
+   53  clear
+   54  ls
+   55  vim install_multipackage.yml
+   56  cat install_multipackage.yml
+   57  ansible-playbook install_multipackage.yml
+   58  cd /etc/ansible/
+   59  ls
+   60  cd hosts
+   61  cd /hosts
+   62  vim hosts
+   63  ansible-playbook install_multipackage.yml
+   64  ls
+   65  cd interview/
+   66  git clone https://github.com/Anuk910/interview.git
+   67  cd interview/
+   68  ls
+   69  ansible-playbook install_multipackage.yml
+   70  git clone https://github.com/Anuk910/interview.git
+   71  ls
+   72  ansible-playbook install_multipackage.yml
+   73  cd interview/
+   74  ansible-playbook install_multipackage.yml
+   75  vim install_multipackage.yml
+   76  ansible-playbook install_multipackage.yml
+   77  vim install_multipackage.yml
+   78  ansible-playbook install_multipackage.yml
+   79  ls
+   80  vim install_multipackage.yml
+   81  ls
+   82  ansible-playbook install_multipackage.yml
+   83  vim install_multipackage.yml
+   84  ansible-playbook install_multipackage.yml
+   85  vim install_multipackage.yml
+   86  ansible-playbook install_multipackage.yml
+   87  cd ..
+   88  git clone https://github.com/Anuk910/interview.git
+   89  ls
+   90  vim install_multipackage.yml
+   91  ansible-playbook install_multipackage.yml
+   92  cd interview/
+   93  ansible-playbook install_multipackage.yml
+   94  cd /etc/ansible/hosts
+   95  cd /etc/ansible
+   96  ls
+   97  vim hosts
+   98  ansible-playbook install_multipackage.yml
+   99  cd interview/
+  100  ansible-playbook install_multipackage.yml
+  101  vim install_multipackage.yml
+  102  ansible-playbook install_multipackage.yml
